@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @th3boe
-- 👀 I’m interested in animation, art and front end.
-- 🌱 I’m currently learning front end.
+- 👀 I’m interested in Animation, Art, Design and FrontEnd.
+- 🌱 I’m currently learning FrontEnd through online studies.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me on boe3am.com
+- 📫 You can find information about how to reach me on "boe3am.com"
 
 <!---
 th3boe/th3boe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
