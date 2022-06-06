@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @th3boe
+- 👋 Hello, @th3boe writing ...
 - 👀 I’m interested in Animation, Art, Design and FrontEnd.
 - 🌱 I’m currently learning FrontEnd through online studies.
 - 💞️ I’m looking to collaborate on anything.
